@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="24" started-at="2019-08-20T13:34:21Z" finished-at="2019-08-20T13:34:21Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="24" started-at="2019-08-20T13:34:21Z" finished-at="2019-08-20T13:34:21Z">
+      <class name="testNGExamples.Annotationsexample">
+        <test-method status="PASS" signature="login()[pri:0, instance:testNGExamples.Annotationsexample@198e2867]" name="login" is-config="true" duration-ms="7" started-at="2019-08-20T19:04:21Z" finished-at="2019-08-20T19:04:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="delemp()[pri:0, instance:testNGExamples.Annotationsexample@198e2867]" name="delemp" duration-ms="4" started-at="2019-08-20T19:04:21Z" finished-at="2019-08-20T19:04:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- delemp -->
+        <test-method status="PASS" signature="addemp()[pri:0, instance:testNGExamples.Annotationsexample@198e2867]" name="addemp" duration-ms="0" started-at="2019-08-20T19:04:21Z" finished-at="2019-08-20T19:04:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addemp -->
+        <test-method status="PASS" signature="logout()[pri:0, instance:testNGExamples.Annotationsexample@198e2867]" name="logout" is-config="true" duration-ms="0" started-at="2019-08-20T19:04:21Z" finished-at="2019-08-20T19:04:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+      </class> <!-- testNGExamples.Annotationsexample -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
